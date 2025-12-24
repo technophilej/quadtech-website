@@ -406,6 +406,7 @@ export default async function ServicePage({
                   width={800}
                   height={320}
                   className="w-full h-80 object-cover"
+                  sizes="(min-width: 1024px) 50vw, 100vw"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-gray-950/50 to-transparent"></div>
               </div>

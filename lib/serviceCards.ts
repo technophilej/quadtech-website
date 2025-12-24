@@ -64,7 +64,7 @@ export const serviceCards: ServiceCard[] = [
     title: "State Compliance and Security",
     slug: "compliance-security",
     description:
-      "Navigate complex regulatory requirements with expert guidance, thorough documentation, and hands on implementation support.",
+      "Navigate complex regulatory requirements with expert guidance, thorough documentation, and hands-on implementation support.",
     image:
       "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
     category: "Cybersecurity",
@@ -114,7 +114,7 @@ export const serviceCards: ServiceCard[] = [
     title: "Website Development and Support",
     slug: "website-development",
     description:
-      "Modern, high performance websites built to convert visitors into customers, backed by ongoing technical support and maintenance.",
+      "Modern, high-performance websites built to convert visitors into customers, backed by ongoing technical support and maintenance.",
     image:
       "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80",
     category: "Web and Communications",

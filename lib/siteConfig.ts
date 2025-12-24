@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "QuadTech Consulting",
   tagline: "Technology That Powers Your Ambition",
   description:
-    "We partner with small and mid sized businesses to deliver managed IT services, cybersecurity, cloud solutions, and communications systems that actually work. Our team becomes an extension of yours, solving problems before they slow you down.",
+    "We partner with small and mid-sized businesses to deliver managed IT services, cybersecurity, cloud solutions, and communications systems that actually work. Our team becomes an extension of yours, solving problems before they slow you down.",
   url:
     process.env.NEXT_PUBLIC_SITE_URL ??
     (process.env.NODE_ENV === "development"

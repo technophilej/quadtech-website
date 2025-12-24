@@ -93,13 +93,13 @@ export default function About() {
             Why Choose Us
           </motion.span>
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
-            A Hands On IT Partner You Can Rely On
+            A Hands-On IT Partner You Can Rely On
           </h2>
           <p className="text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed">
             We started QuadTech to give growing businesses an IT partner they
             can actually talk to. We focus on keeping your systems stable,
             responding when you need help, and recommending technology that
-            makes sense for how your team works every day.
+            makes sense for how your team works day-to-day.
           </p>
         </motion.div>
 

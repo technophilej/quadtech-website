@@ -126,7 +126,7 @@ export default function Services() {
                 Solutions Built Around Your Business
               </h2>
               <p className="text-slate-300 text-lg mb-8 leading-relaxed">
-                Whether you need day to day IT help, stronger security, or a
+                Whether you need day-to-day IT help, stronger security, or a
                 clearer plan for the next year, we start with where you are and
                 build from there. Our core services cover managed IT,
                 cybersecurity, cloud and infrastructure, and practical IT

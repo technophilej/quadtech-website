@@ -299,7 +299,7 @@ export default function Navbar() {
               </div>
 
               <Link
-                href="/#about"
+                href="/why-choose-us"
                 className="px-4 py-2 text-sm text-slate-600 hover:text-[#1e3a5f] hover:bg-slate-50 rounded-lg transition-all duration-200 font-medium"
               >
                 Why Choose Us
@@ -546,7 +546,7 @@ export default function Navbar() {
               </div>
 
               <Link
-                href="/#about"
+                href="/why-choose-us"
                 className="block px-4 py-3 text-base text-slate-700 hover:text-[#1e3a5f] hover:bg-slate-50 rounded-xl transition-all duration-200"
                 onClick={() => setIsOpen(false)}
               >

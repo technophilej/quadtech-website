@@ -1,4 +1,3 @@
-import About from "@/components/About";
 import ContactCTA from "@/components/ContactCTA";
 import FAQ from "@/components/FAQ";
 import Footer from "@/components/Footer";
@@ -13,7 +12,6 @@ export default function Home() {
       <Navbar />
       <Hero />
       <Services />
-      <About />
       <FAQ />
       <ContactCTA />
       <Footer />

@@ -22,7 +22,7 @@ const footerLinks = {
     { label: "Home", href: "/" },
     { label: "All Services", href: "/services" },
     { label: "Resources", href: "/resources" },
-    { label: "Why Choose Us", href: "/#about" },
+    { label: "Why Choose Us", href: "/why-choose-us" },
     { label: "Contact", href: "/contact" },
   ],
 };

@@ -8,7 +8,7 @@ export default function Testimonials() {
         "Clients often look for an IT partner who explains options in plain language and sets realistic expectations.",
     },
     {
-      title: "Reliable Day to Day Support",
+      title: "Reliable Day-to-Day Support",
       description:
         "Leaders want to know that when something breaks, they have a responsive team they can contact for help.",
     },

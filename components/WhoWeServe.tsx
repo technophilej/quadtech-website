@@ -6,13 +6,13 @@ export default function WhoWeServe() {
       icon: Briefcase,
       title: "Small and Growing Businesses",
       description:
-        "Organizations that need reliable day to day IT support without building a full internal team.",
+        "Organizations that need reliable day-to-day IT support without building a full internal team.",
     },
     {
       icon: Building2,
       title: "Professional Services Firms",
       description:
-        "Accounting, legal, financial, and other service based businesses that rely on stable systems and secure data.",
+        "Accounting, legal, financial, and other service-based businesses that rely on stable systems and secure data.",
     },
     {
       icon: Lightbulb,

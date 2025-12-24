@@ -14,6 +14,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/`, lastModified: now },
     { url: `${baseUrl}/services`, lastModified: now },
     { url: `${baseUrl}/resources`, lastModified: now },
+    { url: `${baseUrl}/why-choose-us`, lastModified: now },
   ];
 
   const serviceRoutes: MetadataRoute.Sitemap = serviceCards.map((s) => ({
